@@ -4,15 +4,15 @@
 
 ### Work Samples
 
-<img src="images/magnifying_glass.png?raw=true"/>[Qualys Breach](/sample_page)
+<img src="images/magnifying_glass.png?raw=true"/>[Qualys Breach](/papers/Qualys Breach.pdf):
 A brief explanation of the Qualys/Accellion breach.
  
 ---
-<img src="images/magnifying_glass.png?raw=true"/>[Akash Business Model](/pdf/sample_presentation.pdf)
+<img src="images/magnifying_glass.png?raw=true"/>[Akash Business Model](/papers/Akash business model summary - 200 words.pdf):
 A summary in approximately 200 words. Included here because sometimes it's important to convey the message briefly.
 
 ---
-<img src="images/magnifying_glass.png?raw=true"/>[Site and Personal Investigation Report](http://example.com/)
+<img src="images/magnifying_glass.png?raw=true"/>[Site and Personal Investigation Report](papers/Site and Personal Investigation Report 20210618.pdf):
 OSINT example. An analysis of the potential risk posed by a website and its manager. 
 
 ---
