@@ -19,9 +19,9 @@ OSINT example. An analysis of the potential risk posed by a website and its mana
 
 ### CTF Writeups and Participation
 
-- [Darkwebathon: Rally For Actionable Intelligence](https://followmoneyfightslavery.org/darkwebathon/)
-- [conINT 2021](https://conint.io//)
-- [Tracelabs Search Party November, 2021]
+- [Darkwebathon: Rally For Actionable Intelligence](https://followmoneyfightslavery.org/darkwebathon/) 2nd week in December. W00T!
+- [conINT 2021](https://conint.io/) Writeup to come. Basically this was awesome.
+- [Tracelabs Search Party November, 2021] Team came in 13th out of 218. Go us!
 - [Tracelabs Search Party Global OSINT Search Party CTF 2021.08 DEF CON Edition]
 - [Tracelabs Search Party May, 2021]
 
