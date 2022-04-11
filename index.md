@@ -1,7 +1,5 @@
 ## Writings on Security, Disinformation, Crypto and More
 
----
-
 ### Work Samples
 <img src="images/magnifying_glass.png?raw=true"/>[DarkWeb Investigation - redacted](/papers/DarkWebInvestigation - Redacted.pdf):
 A heavily redacted analysis of a series of breaches on the DarkWeb. The support screenshots have not been included to protect the client.
