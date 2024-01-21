@@ -18,6 +18,12 @@ OSINT example. An analysis of the potential risk posed by a website and its mana
 
 ---
 
+### Presentation Samples
+<img src="images/magnifying_glass.png?raw=true"/>[A Case Study in geOSINT](/papers/2023 OSINT Case Study - Belgrade Graffiti.pdf):
+A brief explanation of the Qualys/Accellion breach.
+
+---
+
 ### CTF Participation
 
 - [Tracelabs Search Party March, 2022] Team came in 15th out of 186. We were rather pleased!
