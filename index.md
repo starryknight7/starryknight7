@@ -19,7 +19,7 @@ OSINT example. An analysis of the potential risk posed by a website and its mana
 ---
 
 ### Presentation Samples
-<img src="images/magnifying_glass.png?raw=true"/>[A Case Study in geOSINT](/papers/2023 OSINT Case Study - Belgrade Graffiti.pdf):
+<img src="images/magnifying_glass.png?raw=true"/>[A Case Study in geOSINT](/papers/2023 OSINT Case Study - Belgrade Graffiti .pdf):
 An applied exploration of geOSINT techniques and their ramifications. (work performed in 2023)
 
 ---
