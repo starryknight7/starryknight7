@@ -27,7 +27,7 @@ An applied exploration of geOSINT techniques and their ramifications. (work perf
 An introduction to OSINT techniques for junior analysts who may also perform interviews. 
 
 ---
-<img src="images/magnifying_glass.png?raw=true"/>[2023 Introduction to OSINT.pdf](papers/2023 Introduction to OSINT.pdf):
+<img src="images/magnifying_glass.png?raw=true"/>[2023 OSINT at Brasidas Part 2 - TK.pdf](papers/2023 OSINT at Brasidas Part 2 - TK.pdf):
 Part II of Intro to OSINT: how-tos, sock puppets, OPSECs and more. 
 
 ---
