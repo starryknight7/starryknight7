@@ -23,6 +23,11 @@ OSINT example. An analysis of the potential risk posed by a website and its mana
 An applied exploration of geOSINT techniques and their ramifications. (work performed in 2023)
 
 ---
+<img src="images/magnifying_glass.png?raw=true"/>[2023 Introduction to OSINT.pdf](papers/2023 Introduction to OSINT.pdf):
+An introduction to OSINT techniques for junior analysts who may also perform interviews. 
+
+---
+
 
 ### CTF Participation
 
